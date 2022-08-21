@@ -74,3 +74,6 @@ See [Getting-Started](https://github.com/stakira/OpenUtau/wiki/Getting-Started) 
 #### The scope of OpenUtau does not include:
 - Full feature digital music workstation.
 - OpenUtau does not strike for Vocaloid compatibility, other than limited features.
+
+#### VocalShifter 
+basically pitch for use like utau but better like melodyne https://utaforum.net/threads/how-to-use-vocalshifter.15433/
