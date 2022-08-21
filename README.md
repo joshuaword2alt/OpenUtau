@@ -76,4 +76,4 @@ See [Getting-Started](https://github.com/stakira/OpenUtau/wiki/Getting-Started) 
 - OpenUtau does not strike for Vocaloid compatibility, other than limited features.
 
 #### VocalShifter 
-basically pitch for use like utau but better like melodyne https://utaforum.net/threads/how-to-use-vocalshifter.15433/
+basically pitch for use like utau but better like melodyne [TUTORIAL](https://utaforum.net/resources/how-to-use-vocalshifter.297/)
